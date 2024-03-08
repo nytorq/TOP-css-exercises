@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../MDN-tables-assessment"
+		},
+		{
+			"path": "../../../../scratchwork"
+		},
+		{
+			"path": "../../../book-library"
+		},
+		{
+			"path": "../../../tic-tac-toe"
+		},
+		{
+			"path": "../../../webpack-demo"
+		},
+		{
+			"path": "../../../sign-up-form"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TOP-css-exercises"
+	}
+}
