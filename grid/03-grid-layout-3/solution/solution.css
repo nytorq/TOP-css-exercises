@@ -30,6 +30,11 @@
 }
 
 .sidebar .photo {
+  display: flex;
+  align-items: center;
+}
+
+.sidebar .photo {
   background-color: white;
   color: black;
   font-size: 12px;
