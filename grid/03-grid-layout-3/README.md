@@ -22,10 +22,10 @@ X The container element has two columns
 X The container's second column is 4 times larger than the first column
 X The container element has a gap of 4px
 - The header element has two columns
-- The `ul` inside the menu element contains another grid
-- The `ul` inside the nav element contains another grid
+X The `ul` inside the menu element contains another grid
+X The `ul` inside the nav element contains another grid
 X The sidebar element has a gap of 50px
-- The text elements in the sidebar are centered with grid
+X The text elements in the sidebar are centered with grid
 X The article element should set grid columns using `repeat` along with the `auto-fit` and `minmax` properties
 X The article columns should have a minimum value of 250px and a maximum of 1fr unit
 X The article element has a gap of 15px
